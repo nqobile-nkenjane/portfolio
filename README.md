@@ -1,1 +1,0 @@
-# Nqobile Nkenjane IT Portfolio\n\nUpdated professional portfolio with your photo, corrected email, lowercase d-lab, and the exact homepage image from the live Wig Laundry website.\n
