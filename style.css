@@ -46,7 +46,26 @@ nav{
   font-family:'IBM Plex Mono', monospace; letter-spacing:0.02em;
 }
 .navlinks a:hover, .navlinks a.active{ color:var(--gold); }
-@media (max-width:760px){ .navlinks{ display:none; } }
+
+.navtoggle{
+  display:none;
+  background:none; border:none; color:var(--ink);
+  font-size:22px; cursor:pointer; padding:4px 6px;
+}
+
+@media (max-width:760px){
+  .navtoggle{ display:block; }
+  .navlinks{
+    display:none;
+    position:absolute; top:100%; left:0; right:0;
+    flex-direction:column; gap:0;
+    background:var(--bg); border-bottom:1px solid var(--line);
+    padding:8px 6vw 16px;
+  }
+  .navlinks.open{ display:flex; }
+  .navlinks a{ padding:12px 0; border-bottom:1px solid var(--line); font-size:13px; }
+  .navlinks li:last-child a{ border-bottom:none; }
+}
 
 /* ---------- PAGE HEADER (non-home pages) ---------- */
 .pagehead{
