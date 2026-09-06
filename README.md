@@ -7,8 +7,19 @@
 This is my professional portfolio, built to document my journey from a background in administration and customer service into IT Technical Support — and to show, not just tell, that I can build things.
 
 I'm currently completing my **IT Technical Support Level 4** qualification at I.N.T Skills Training, hold **Cisco certifications** in Cybersecurity, Networking, Hardware and IT Customer Support, and I'm developing my **web development** skills through hands-on projects — including this site, which I designed and built myself with HTML, CSS and JavaScript.
+## Career Focus
 
-## What you will find here:
+I am seeking opportunities where I can gain practical experience in:
+
+- IT Technical Support
+- IT Internships
+- IT Learnerships
+- Junior IT roles
+- Digital and technology support
+- Administration and IT support
+
+I am particularly interested in opportunities that allow me to learn, contribute to a team and grow professionally.
+## Portfolio sections:
 
 | Page | What's in it |
 |---|---|
